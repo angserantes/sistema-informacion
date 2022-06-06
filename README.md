@@ -7,7 +7,7 @@ Para la realización del siguiente proyecto se han hecho los siguientes wirefram
 
 ![wireframe](https://i.ibb.co/5YByDGS/CONSULTAS.png)
 
-En el primer caso nos encontramos con un wireframa de la página de inicio, en la que se detallan diferentes espacios en primer lugar un navegador con buscador, estado de sesión de un usuario, y espacio del usuario. El menú de navegación cuenta con diferentes espacios (inicio, consultas, personas, empresas y agenda para el profesional).
+En el primer caso nos encontramos con un wireframe de la página de inicio, en la que se detallan diferentes espacios en primer lugar un navegador con buscador, estado de sesión de un usuario, y espacio del usuario. El menú de navegación cuenta con diferentes espacios (inicio, consultas, personas, empresas y agenda para el profesional).
 
 El profesional a mano derecha cuenta con un espacio en el que podrá acceder a su cuenta de correo, chatear con sus compañeros/as y tomar notas. Además cuenta con un menú de navegación en la parte baja de la pantalla para no hacer scroll hacia arriba; así como con un footer y el acceso a twitter de la cuenta pertinente.
 
